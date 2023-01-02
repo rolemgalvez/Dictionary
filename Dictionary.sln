@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobDescription", "JobDescri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees\Employees.csproj", "{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking", "Ranking\Ranking.csproj", "{8DA450DA-4275-4B7A-B34E-C91C39B295DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
