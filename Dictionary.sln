@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobDescription", "JobDescription\JobDescription.csproj", "{5601CD4C-74D3-4056-97FA-DA5FF069EB2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobDescription", "JobDescription\JobDescription.csproj", "{5601CD4C-74D3-4056-97FA-DA5FF069EB2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees\Employees.csproj", "{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees", "Employees\Employees.csproj", "{AA4B0134-1A42-4B92-8CAE-4D9DD7E896C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking", "Ranking\Ranking.csproj", "{8DA450DA-4275-4B7A-B34E-C91C39B295DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranking", "Ranking\Ranking.csproj", "{8DA450DA-4275-4B7A-B34E-C91C39B295DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeductionPriority", "DeductionPriority\DeductionPriority.csproj", "{7DA34CF3-0489-4960-9665-BFCEB5D8C75F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA450DA-4275-4B7A-B34E-C91C39B295DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA34CF3-0489-4960-9665-BFCEB5D8C75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA34CF3-0489-4960-9665-BFCEB5D8C75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA34CF3-0489-4960-9665-BFCEB5D8C75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA34CF3-0489-4960-9665-BFCEB5D8C75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
